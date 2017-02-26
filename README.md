@@ -1,4 +1,4 @@
-# This is cs207project;
+This is our cs 207 project
 Our software control component for four wheel drive robot car will be using Arduino
 sketch. The software will allow the robot receive instructions from user such as moving
 forward,backward,left and right, via bluetooth component. After received instructions, the
