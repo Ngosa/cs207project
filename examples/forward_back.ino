@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.09.12
 int ENA=10; 
 int IN1=9;
 int IN2=8;
