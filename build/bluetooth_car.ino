@@ -1,6 +1,3 @@
-//www.elegoo.com
-//2016.09.12
-
 int LED=13;
 volatile int state = LOW;
 char getstr;
