@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.09.12
 
 /*In3 connected to the 7 pin, 
  In4 connected to the 6 pin, ENB pin 5,*/
