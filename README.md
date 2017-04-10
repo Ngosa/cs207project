@@ -1,5 +1,6 @@
 Bluetooth control car and lcd display system [V 0.9]
 ===================================
+This repository is for cs207 interactive Gadgets project.
 
 Repository Contents:
 ===================================
