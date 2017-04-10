@@ -13,4 +13,4 @@ Repository Contents:
 
 Materials
 ===================================
-cs207project/img/Cap87654ture.JPG
+![alt tag](cs207project/img/Cap87654ture.JPG)
