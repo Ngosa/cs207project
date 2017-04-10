@@ -6,7 +6,7 @@
 // initialize the library with the number of the sspin
 //(or the latch pin of the 74HC595)
 LiquidCrystal lcd(4);
- int pinDHT11 = 0;
+ int pinDHT11 = 2;
 SimpleDHT11 dht11;
 
 void setup() {
