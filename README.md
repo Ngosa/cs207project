@@ -30,4 +30,4 @@ Chengyu Lou<br />
 
 Credits
 ===================================
-
+http://playground.arduino.cc/Main/LiquidCrystal
