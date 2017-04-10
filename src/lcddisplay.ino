@@ -5,15 +5,15 @@
 #include <SPI.h>
 // initialize the library with the number of the sspin
 //(or the latch pin of the 74HC595)
-LiquidCrystal lcd(10);
- int pinDHT11 = 4;
+LiquidCrystal lcd(4);
+ int pinDHT11 = 0;
 SimpleDHT11 dht11;
 
 void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(20, 4);
   // Print a message to the LCD.
-  lcd.print("hello, world!");
+  lcd.print("Temp    Humidity");
 }
  
 void loop() {
