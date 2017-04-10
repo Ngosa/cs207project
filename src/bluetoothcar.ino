@@ -1,4 +1,4 @@
-int LED=13;
+int LED=12;
 volatile int state = LOW;
 char getstr;
 int in1=9;
